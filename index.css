@@ -92,6 +92,10 @@ main {
         display: flex;
         margin: 0 auto 0 auto;
     }
+    
+    p {
+        margin-bottom: 2.5em;
+    }
 
     .ct-sedans {
         border-top-right-radius: 0;
